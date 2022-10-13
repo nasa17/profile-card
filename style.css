@@ -1,7 +1,7 @@
 body{
     background-color: hsl(185, 75%, 39%);
     font-family:'kumbh sans';
-    background-image: url(./profile-card-component-main/images/bg-pattern-top.svg), url(./profile-card-component-main/images/bg-pattern-bottom.svg);
+    background-image: url(./bg-pattern-top.svg), url(./bg-pattern-bottom.svg);
     background-position: right 52vw bottom 40vh, left 50vw top 50vh;
     background-repeat: no-repeat;
     display: flex;
